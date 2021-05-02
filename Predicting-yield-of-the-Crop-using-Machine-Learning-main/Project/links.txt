@@ -1,0 +1,3 @@
+https://medium.com/@rrfd/standardize-or-normalize-examples-in-python-e3f174b65dfc
+
+https://aegis4048.github.io/mutiple_linear_regression_and_visualization_in_python
